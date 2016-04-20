@@ -8,4 +8,19 @@ p {
 
 body {
   background-color: lightpink;
+  text-align: center;
+}
+
+.btn{
+  text-align: center;
+  border: solid black 3px;
+}
+
+.highlight{
+  background-color: red;
+  text-decoration: underline;
+}
+
+img {
+  border-radius: 50px;
 }
