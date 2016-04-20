@@ -9,3 +9,13 @@ p {
 body {
   background-color: lightpink;
 }
+
+.btn{
+  text-align: center;
+  border: solid black 3px;
+}
+
+.highlight{
+  background-color: red;
+  text-decoration: underline;
+}
